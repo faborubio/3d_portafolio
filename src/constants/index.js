@@ -20,7 +20,7 @@ import {
     tesla,
     shopify,
     carrent,
-    jobit,
+    aisummarizer,
     tripguide,
     threejs,
   } from "../assets";
@@ -219,9 +219,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "AI summarizer",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that allows you to efficiently summarize web articles with artificial intelligence, saving your previous searches in a history.",
       tags: [
         {
           name: "react",
@@ -236,8 +236,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: aisummarizer,
+      source_code_link: "https://github.com/faborubio/AI_SUMMARIZER",
     },
     {
       name: "Trip Guide",
